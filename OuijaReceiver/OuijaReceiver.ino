@@ -124,4 +124,8 @@ void loop() {
   //delay(5000);              // wait for a second
   else digitalWrite(PIN_REL, LOW);    // turn the LED off by making the voltage LOW
   //delay(5000);              // wait for a second
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
